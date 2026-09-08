@@ -1,0 +1,6 @@
+{
+  "name": "H₂S GUARDIAN",
+  "description": "AI-Assisted Hydrogen Sulfide Exposure Dosimeter - Digital colorimetric strip reader using smartphone camera",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
